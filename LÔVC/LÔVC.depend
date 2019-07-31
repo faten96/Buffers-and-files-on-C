@@ -1,0 +1,353 @@
+# depslib dependency file v1.0
+1480531240 source:c:\users\hp\desktop\2cpi -sfsd programmation\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480504220 c:\users\hp\desktop\2cpi -sfsd programmation\l‘vc\header.h
+
+1480504865 source:c:\users\hp\desktop\2cpi -sfsd programmation\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480531833 source:c:\users\hp\desktop\2cpi -sfsd programmation\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480545653 source:c:\users\king\desktop\l‘vc-20161130t190351z\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480538768 c:\users\king\desktop\l‘vc-20161130t190351z\l‘vc\header.h
+
+1480499766 source:c:\users\king\desktop\l‘vc-20161130t190351z\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480545788 source:c:\users\king\desktop\l‘vc-20161130t190351z\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480584297 source:c:\users\king\desktop\l‘vc\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480538768 c:\users\king\desktop\l‘vc\l‘vc\header.h
+
+1480581647 source:c:\users\king\desktop\l‘vc\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480627909 source:c:\users\king\desktop\l‘vc\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480897530 source:c:\users\hp\desktop\l‘vc\l‘vc\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480538768 c:\users\hp\desktop\l‘vc\l‘vc\l‘vc\header.h
+
+1480898632 source:c:\users\hp\desktop\l‘vc\l‘vc\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480898386 source:c:\users\hp\desktop\l‘vc\l‘vc\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	"conio.h"
+	"conio2.h"
+	"conio.c"
+
+1250308674 c:\users\hp\desktop\l‘vc\l‘vc\l‘vc\conio.h
+	<_mingw.h>
+
+1091539152 c:\users\hp\desktop\l‘vc\l‘vc\l‘vc\conio2.h
+	<conio.h>
+	<windows.h>
+
+1091539152 c:\users\hp\desktop\l‘vc\l‘vc\l‘vc\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1480866656 source:c:\users\king\downloads\l‘vc-20161205t064544z\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480866656 c:\users\king\downloads\l‘vc-20161205t064544z\l‘vc\header.h
+
+1480866656 source:c:\users\king\downloads\l‘vc-20161205t064544z\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480866658 source:c:\users\king\downloads\l‘vc-20161205t064544z\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	"conio.h"
+	"conio2.h"
+	"conio.c"
+
+1480866656 c:\users\king\downloads\l‘vc-20161205t064544z\l‘vc\conio.h
+	<_mingw.h>
+
+1480866656 c:\users\king\downloads\l‘vc-20161205t064544z\l‘vc\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480866656 c:\users\king\downloads\l‘vc-20161205t064544z\l‘vc\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1480965006 source:c:\users\king\desktop\l‘vc-20161205t064544z\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480866656 c:\users\king\desktop\l‘vc-20161205t064544z\l‘vc\header.h
+
+1480866656 source:c:\users\king\desktop\l‘vc-20161205t064544z\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480964853 source:c:\users\king\desktop\l‘vc-20161205t064544z\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	"conio.h"
+	"conio2.h"
+	"conio.c"
+
+1480866656 c:\users\king\desktop\l‘vc-20161205t064544z\l‘vc\conio.h
+	<_mingw.h>
+
+1480866656 c:\users\king\desktop\l‘vc-20161205t064544z\l‘vc\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480866656 c:\users\king\desktop\l‘vc-20161205t064544z\l‘vc\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1480866656 source:c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_saadoud_g4\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480971792 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_saadoud_g4\l‘vc\header.h
+
+1480971792 source:c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_saadoud_g4\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	"conio.h"
+	"conio2.h"
+	"conio.c"
+
+1480866656 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_saadoud_g4\l‘vc\conio.h
+	<_mingw.h>
+
+1480866656 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_saadoud_g4\l‘vc\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480866656 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_saadoud_g4\l‘vc\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1480972483 source:c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_saadoud_g4\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480972483 source:c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_sadoud_g4\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480971792 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_sadoud_g4\l‘vc\header.h
+
+1480866656 source:c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_sadoud_g4\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1480971792 source:c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_sadoud_g4\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	"conio.h"
+	"conio2.h"
+	"conio.c"
+
+1480866656 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_sadoud_g4\l‘vc\conio.h
+	<_mingw.h>
+
+1480866656 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_sadoud_g4\l‘vc\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480866656 c:\users\hp\desktop\tp2_avant_maalem_saadoud_g4\maalem_sadoud_g4\l‘vc\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1481039299 source:c:\users\king\desktop\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1481039325 c:\users\king\desktop\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\header.h
+
+1480866656 source:c:\users\king\desktop\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1481038948 source:c:\users\king\desktop\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	"conio.h"
+	"conio2.h"
+	"conio.c"
+
+1480866656 c:\users\king\desktop\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\conio.h
+	<_mingw.h>
+
+1480866656 c:\users\king\desktop\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480866656 c:\users\king\desktop\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1484116163 source:c:\users\king\desktop\2Ëme annee\mes tps  2eme\tp2 sfsd\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1484115417 c:\users\king\desktop\2Ëme annee\mes tps  2eme\tp2 sfsd\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\header.h
+
+1480866656 source:c:\users\king\desktop\2Ëme annee\mes tps  2eme\tp2 sfsd\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1484116264 source:c:\users\king\desktop\2Ëme annee\mes tps  2eme\tp2 sfsd\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+	"conio.h"
+	"conio2.h"
+	"conio.c"
+
+1480866656 c:\users\king\desktop\2Ëme annee\mes tps  2eme\tp2 sfsd\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\conio.h
+	<_mingw.h>
+
+1480866656 c:\users\king\desktop\2Ëme annee\mes tps  2eme\tp2 sfsd\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480866656 c:\users\king\desktop\2Ëme annee\mes tps  2eme\tp2 sfsd\tp2_avant_maalem_sadoud_g4\maalem_sadoud_g4\l‘vc\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1484116164 source:g:\l‘vc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
+1484115418 g:\l‘vc\header.h
+
+1480866656 source:g:\l‘vc\les models.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Header.h"
+
